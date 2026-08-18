@@ -3,7 +3,7 @@ title: "Tent Camping Countertop and Backsplash Glow-Up"
 meta: "Transform your tent camping kitchen with a countertop and backsplash glow-up. Practical tips for organization, comfort, and style at your campsite."
 category: "Kitchen Decor, Backsplash & Lighting"
 author: "Razen Alias"
-image: "https://kitchendecorr.com/wp-content/uploads/2026/07/tent-camping-countertop-and-backsplash-g-1.webp"
+image: "/images/tent-camping-countertop-and-backsplash-glow-up.webp"
 pubDate: "2026-07-24T03:10:00Z"
 ---
 

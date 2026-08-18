@@ -3,7 +3,7 @@ title: "5 Budget Kitchen Organization Hacks That Actually Worked for Me"
 meta: "I tried 12 budget kitchen organization ideas for tent camping. These 5 actually worked. Practical, tested tips for a tidy campsite kitchen."
 category: "Kitchen Organization & Storage"
 author: "Razen Alias"
-image: "https://kitchendecorr.com/wp-content/uploads/2026/07/5-budget-kitchen-organization-hacks-that-1.webp"
+image: "/images/5-budget-kitchen-organization-hacks-that-actually-worked-for-me.webp"
 pubDate: "2026-07-25T00:20:00Z"
 ---
 

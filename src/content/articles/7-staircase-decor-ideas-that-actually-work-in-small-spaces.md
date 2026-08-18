@@ -3,7 +3,7 @@ title: "7 Staircase Decor Ideas That Actually Work in Small Spaces"
 meta: "Discover 7 staircase decor ideas for small spaces that maximize style without clutter. Practical tips for narrow stairs, landings, and tight corners."
 category: "Home & Living Spaces Decor"
 author: "Razen Alias"
-image: "https://kitchendecorr.com/wp-content/uploads/2026/07/7-staircase-decor-ideas-that-actually-wo-1.webp"
+image: "/images/7-staircase-decor-ideas-that-actually-work-in-small-spaces.webp"
 pubDate: "2026-07-26T22:20:00Z"
 ---
 

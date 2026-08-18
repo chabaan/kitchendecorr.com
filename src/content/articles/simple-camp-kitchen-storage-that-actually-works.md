@@ -3,7 +3,7 @@ title: "Simple Camp Kitchen Storage That Actually Works"
 meta: "Finally! kitchen storage and organization That Doesn't Feel Overwhelming. Practical steps to set up a calm, functional camp kitchen in minutes."
 category: "Kitchen Organization & Storage"
 author: "Razen Alias"
-image: "https://kitchendecorr.com/wp-content/uploads/2026/07/simple-camp-kitchen-storage-that-actuall-1.webp"
+image: "/images/simple-camp-kitchen-storage-that-actually-works.webp"
 pubDate: "2026-07-21T02:25:00Z"
 ---
 

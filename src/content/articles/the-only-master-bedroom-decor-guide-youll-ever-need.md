@@ -3,7 +3,7 @@ title: "The Only Master Bedroom Decor Guide You'll Ever Need"
 meta: "Transform your tent into a cozy master bedroom decor retreat with this practical guide. Learn tent-specific tricks for lighting, bedding, and storage."
 category: "Home & Living Spaces Decor"
 author: "Razen Alias"
-image: "https://kitchendecorr.com/wp-content/uploads/2026/07/the-only-master-bedroom-decor-guide-you-1-1.webp"
+image: "/images/the-only-master-bedroom-decor-guide-youll-ever-need.webp"
 pubDate: "2026-07-17T17:15:00Z"
 ---
 

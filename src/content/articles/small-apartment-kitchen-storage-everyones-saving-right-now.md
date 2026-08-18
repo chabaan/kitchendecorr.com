@@ -3,7 +3,7 @@ title: "Small Apartment Kitchen Storage Everyone's Saving Right Now"
 meta: "Discover the small apartment kitchen storage everyone's saving right now. Practical, space-saving tips that work for tent camping too."
 category: "Kitchen Organization & Storage"
 author: "Razen Alias"
-image: "https://kitchendecorr.com/wp-content/uploads/2026/07/small-apartment-kitchen-storage-everyone-1.webp"
+image: "/images/small-apartment-kitchen-storage-everyones-saving-right-now.webp"
 pubDate: "2026-07-15T21:10:00Z"
 ---
 

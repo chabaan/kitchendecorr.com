@@ -3,7 +3,7 @@ title: "The Kitchen Inspo Aesthetic Everyone's Saving Right Now"
 meta: "Get the kitchen inspo aesthetic everyone's saving right now with smart tent camping storage, cozy lighting, and practical gear tips that actually work."
 category: "Kitchen Decor, Backsplash & Lighting"
 author: "Razen Alias"
-image: "https://kitchendecorr.com/wp-content/uploads/2026/07/the-kitchen-inspo-aesthetic-everyone-s-s-1.webp"
+image: "/images/the-kitchen-inspo-aesthetic-everyones-saving-right-now.webp"
 pubDate: "2026-07-23T14:30:00Z"
 ---
 

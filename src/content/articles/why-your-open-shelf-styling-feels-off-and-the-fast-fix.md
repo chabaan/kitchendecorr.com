@@ -3,7 +3,7 @@ title: "Why Your Open Shelf Styling Feels Off (And the Fast Fix)"
 meta: "Your open shelf kitchen styling feels off because of one hidden mistake. Learn the fast fix to make your camp kitchen look intentional and tidy."
 category: "Kitchen Organization & Storage"
 author: "Razen Alias"
-image: "https://kitchendecorr.com/wp-content/uploads/2026/07/why-your-open-shelf-styling-feels-off-an-1.webp"
+image: "/images/why-your-open-shelf-styling-feels-off-and-the-fast-fix.webp"
 pubDate: "2026-07-25T15:00:00Z"
 ---
 

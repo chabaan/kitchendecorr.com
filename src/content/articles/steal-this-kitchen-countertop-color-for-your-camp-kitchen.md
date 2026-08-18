@@ -3,7 +3,7 @@ title: "Steal This Kitchen Countertop Color for Your Camp Kitchen"
 meta: "Steal this kitchen countertop color for a tidy, stylish camp kitchen. Learn the exact shade and technique to elevate your tent camping setup."
 category: "Kitchen Decor, Backsplash & Lighting"
 author: "Razen Alias"
-image: "https://kitchendecorr.com/wp-content/uploads/2026/07/steal-this-kitchen-countertop-color-for-1-1.webp"
+image: "/images/steal-this-kitchen-countertop-color-for-your-camp-kitchen.webp"
 pubDate: "2026-07-18T19:00:00Z"
 ---
 

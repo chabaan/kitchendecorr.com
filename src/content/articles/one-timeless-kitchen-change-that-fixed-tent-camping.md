@@ -3,7 +3,7 @@ title: "One Timeless Kitchen Change That Fixed Tent Camping"
 meta: "Discover the one timeless kitchen change that fixed everything for tent camping. A practical, cozy solution for better meals outdoors."
 category: "Kitchen Decor, Backsplash & Lighting"
 author: "Ayla Allen"
-image: "https://kitchendecorr.com/wp-content/uploads/2026/07/one-timeless-kitchen-change-that-fixed-t-1.webp"
+image: "/images/one-timeless-kitchen-change-that-fixed-tent-camping.webp"
 pubDate: "2026-07-22T01:00:00Z"
 ---
 

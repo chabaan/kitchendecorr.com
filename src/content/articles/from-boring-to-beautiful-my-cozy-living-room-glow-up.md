@@ -3,7 +3,7 @@ title: "From Boring to Beautiful: My cozy living room Glow-Up"
 meta: "Turn a basic tent interior into a cozy living room glow-up with smart lighting, layered textures, and space-saving tips that transform your campsite."
 category: "Home & Living Spaces Decor"
 author: "Razen Alias"
-image: "https://kitchendecorr.com/wp-content/uploads/2026/07/from-boring-to-beautiful-my-cozy-living-1-1.webp"
+image: "/images/from-boring-to-beautiful-my-cozy-living-room-glow-up.webp"
 pubDate: "2026-07-24T19:00:00Z"
 ---
 

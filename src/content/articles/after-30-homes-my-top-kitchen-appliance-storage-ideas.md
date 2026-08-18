@@ -3,7 +3,7 @@ title: "After 30 Homes, My Top Kitchen Appliance Storage Ideas"
 meta: "After 30 homes, discover my favorite kitchen appliance storage ideas for tent camping. Practical, space-saving tricks you won't find elsewhere."
 category: "Kitchen Organization & Storage"
 author: "Razen Alias"
-image: "https://kitchendecorr.com/wp-content/uploads/2026/07/after-30-homes-my-top-kitchen-appliance-1-1.webp"
+image: "/images/after-30-homes-my-top-kitchen-appliance-storage-ideas.webp"
 pubDate: "2026-07-24T21:45:00Z"
 ---
 

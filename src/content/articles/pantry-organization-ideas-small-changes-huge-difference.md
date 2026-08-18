@@ -3,7 +3,7 @@ title: "Pantry Organization Ideas: Small Changes, Huge Difference"
 meta: "Discover pantry organization ideas for tent camping that make a huge difference. Simple methods for tidy, accessible food storage at your campsite."
 category: "Kitchen Organization & Storage"
 author: "Ayla Allen"
-image: "https://kitchendecorr.com/wp-content/uploads/2026/07/pantry-organization-ideas-small-changes-1-1.webp"
+image: "/images/pantry-organization-ideas-small-changes-huge-difference.webp"
 pubDate: "2026-07-26T18:25:00Z"
 ---
 

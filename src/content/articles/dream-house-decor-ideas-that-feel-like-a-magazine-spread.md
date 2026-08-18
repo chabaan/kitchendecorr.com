@@ -3,7 +3,7 @@ title: "Dream House Decor Ideas That Feel Like a Magazine Spread"
 meta: "Dream house decor ideas that feel like a magazine spread: learn tent camping styling tricks for a refined, cozy tent setup with practical tips."
 category: "Home & Living Spaces Decor"
 author: "Razen Alias"
-image: "https://kitchendecorr.com/wp-content/uploads/2026/07/dream-house-decor-ideas-that-feel-like-a-1.webp"
+image: "/images/dream-house-decor-ideas-that-feel-like-a-magazine-spread.webp"
 pubDate: "2026-07-27T23:00:00Z"
 ---
 

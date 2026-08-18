@@ -3,7 +3,7 @@ title: "The Small Living Room Ideas Upgrade Worth Every Penny"
 meta: "Discover the one small living room ideas upgrade that transforms your camping tent into a cozy, organized haven. Worth every penny for comfort and style."
 category: "Home & Living Spaces Decor"
 author: "Ayla Allen"
-image: "https://kitchendecorr.com/wp-content/uploads/2026/07/the-small-living-room-ideas-upgrade-wort-1.webp"
+image: "/images/the-small-living-room-ideas-upgrade-worth-every-penny.webp"
 pubDate: "2026-07-23T23:00:00Z"
 ---
 

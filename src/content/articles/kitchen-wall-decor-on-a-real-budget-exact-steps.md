@@ -3,7 +3,7 @@ title: "Kitchen Wall Decor on a Real Budget: Exact Steps"
 meta: "Kitchen wall decor on a real budget doesn't mean bare walls. Follow exact steps to hang a waterproof, wind-safe camp kitchen display for under $10."
 category: "Kitchen Decor, Backsplash & Lighting"
 author: "Ayla Allen"
-image: "https://kitchendecorr.com/wp-content/uploads/2026/07/kitchen-wall-decor-on-a-real-budget-exac-1.webp"
+image: "/images/kitchen-wall-decor-on-a-real-budget-exact-steps.webp"
 pubDate: "2026-07-15T00:20:00Z"
 ---
 

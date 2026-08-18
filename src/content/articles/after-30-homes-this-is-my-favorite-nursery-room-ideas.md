@@ -3,7 +3,7 @@ title: "After 30 Homes, This Is My Favorite Nursery Room Ideas"
 meta: "Discover my favorite nursery room ideas after setting up 30 temporary homes. Practical tent camping comfort and organization tips for a cozy, functional space."
 category: "Home & Living Spaces Decor"
 author: "Ayla Allen"
-image: "https://kitchendecorr.com/wp-content/uploads/2026/07/after-30-homes-this-is-my-favorite-nurse-1.webp"
+image: "/images/after-30-homes-this-is-my-favorite-nursery-room-ideas.webp"
 pubDate: "2026-07-22T18:25:00Z"
 ---
 

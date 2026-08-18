@@ -3,7 +3,7 @@ title: "The One Kitchen Sink Change That Fixed Everything"
 meta: "Discover the one kitchen sink change that solved tent camping dish duty for good. A practical, no-fluff fix for easier camp cooking cleanup."
 category: "Kitchen Decor, Backsplash & Lighting"
 author: "Razen Alias"
-image: "https://kitchendecorr.com/wp-content/uploads/2026/07/the-one-kitchen-sink-change-that-fixed-e-1.webp"
+image: "/images/the-one-kitchen-sink-change-that-fixed-everything.webp"
 pubDate: "2026-07-22T05:30:00Z"
 ---
 

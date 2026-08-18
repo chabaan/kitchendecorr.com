@@ -3,7 +3,7 @@ title: "I Tried 12 Gallery Wall Ideas for Tents — These 5 Worked"
 meta: "Tried 12 gallery wall ideas for tent camping? These 5 actually worked for a cozy, organized setup. Practical tips without damaging your tent."
 category: "Kitchen Remodel & Design Ideas"
 author: "Ayla Allen"
-image: "https://kitchendecorr.com/wp-content/uploads/2026/07/i-tried-12-gallery-wall-ideas-for-tents-1-1.webp"
+image: "/images/i-tried-12-gallery-wall-ideas-for-tents-these-5-worked.webp"
 pubDate: "2026-07-27T01:40:00Z"
 ---
 

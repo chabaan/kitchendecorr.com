@@ -3,7 +3,7 @@ title: "Finally! Wall Decor That Doesn't Feel Overwhelming"
 meta: "Learn how to add tent wall decor that feels cozy, not cluttered. Practical tips for lightweight, weather-safe, and aesthetic camping setups."
 category: "Home & Living Spaces Decor"
 author: "Razen Alias"
-image: "https://kitchendecorr.com/wp-content/uploads/2026/07/finally-wall-decor-that-doesn-t-feel-ove-1.webp"
+image: "/images/finally-wall-decor-that-doesnt-feel-overwhelming.webp"
 pubDate: "2026-07-29T19:00:00Z"
 ---
 

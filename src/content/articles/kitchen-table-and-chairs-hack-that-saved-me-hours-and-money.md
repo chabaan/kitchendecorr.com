@@ -3,7 +3,7 @@ title: "Kitchen Table and Chairs Hack That Saved Me Hours and Money"
 meta: "Discover a kitchen table and chairs hack that saved me hours of setup time and hundreds of dollars. Practical, tested technique for any campsite."
 category: "Kitchen Decor, Backsplash & Lighting"
 author: "Ayla Allen"
-image: "https://kitchendecorr.com/wp-content/uploads/2026/07/kitchen-table-and-chairs-hack-that-saved.webp"
+image: "/images/kitchen-table-and-chairs-hack-that-saved-me-hours-and-money.webp"
 pubDate: "2026-07-05T14:09:40Z"
 ---
 

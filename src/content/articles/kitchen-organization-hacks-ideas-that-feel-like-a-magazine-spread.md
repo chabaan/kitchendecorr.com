@@ -3,7 +3,7 @@ title: "Kitchen Organization Hacks Ideas That Feel Like a Magazine Spread"
 meta: "Transform your campsite kitchen into an organized, magazine-worthy space with these kitchen organization hacks ideas for tent camping."
 category: "Kitchen Organization & Storage"
 author: "Ayla Allen"
-image: "https://kitchendecorr.com/wp-content/uploads/2026/07/kitchen-organization-hacks-ideas-that-fe-1.webp"
+image: "/images/kitchen-organization-hacks-ideas-that-feel-like-a-magazine-spread.webp"
 pubDate: "2026-07-17T00:20:00Z"
 ---
 

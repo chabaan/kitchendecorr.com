@@ -3,7 +3,7 @@ title: "Cozy Minimalist Living Room Tent Setup You'll Want to Copy"
 meta: "Build a cozy minimalist living room in your tent with smart storage and soft lighting. Simple steps for a calm campsite you'll want to copy today."
 category: "Home & Living Spaces Decor"
 author: "Razen Alias"
-image: "https://kitchendecorr.com/wp-content/uploads/2026/07/cozy-minimalist-living-room-tent-setup-y-1.webp"
+image: "/images/cozy-minimalist-living-room-tent-setup-youll-want-to-copy.webp"
 pubDate: "2026-07-15T06:15:00Z"
 ---
 

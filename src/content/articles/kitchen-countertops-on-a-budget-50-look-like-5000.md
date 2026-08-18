@@ -3,7 +3,7 @@ title: "Kitchen Countertops on a Budget: $50 Look Like $5,000"
 meta: "Learn how to get $50 kitchen countertops with white cabinets that look like $5,000. Practical tips for a stunning budget-friendly upgrade."
 category: "Kitchen Decor, Backsplash & Lighting"
 author: "Ayla Allen"
-image: "https://kitchendecorr.com/wp-content/uploads/2026/07/kitchen-countertops-on-a-budget-50-look-1-1.webp"
+image: "/images/kitchen-countertops-on-a-budget-50-look-like-5000.webp"
 pubDate: "2026-07-18T04:45:00Z"
 ---
 

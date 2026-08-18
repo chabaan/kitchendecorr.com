@@ -3,7 +3,7 @@ title: "The Only Kitchen Countertop Decor Guide You'll Ever Need"
 meta: "Learn to decorate your tent camping kitchen countertop with practical, cozy decor that stays put in wind and rain. The only guide you need."
 category: "Kitchen Decor, Backsplash & Lighting"
 author: "Ayla Allen"
-image: "https://kitchendecorr.com/wp-content/uploads/2026/07/the-only-kitchen-countertop-decor-guide-1-1.webp"
+image: "/images/the-only-kitchen-countertop-decor-guide-youll-ever-need.webp"
 pubDate: "2026-07-30T04:45:00Z"
 ---
 

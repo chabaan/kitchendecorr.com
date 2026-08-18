@@ -3,7 +3,7 @@ title: "The Only TV Wall Decor Guide You'll Ever Need"
 meta: "Stop struggling with tent wall decor. This guide covers the only TV wall decor technique for a cozy, organized tent interior."
 category: "Home & Living Spaces Decor"
 author: "Razen Alias"
-image: "https://kitchendecorr.com/wp-content/uploads/2026/07/the-only-tv-wall-decor-guide-you-ll-ever-1.webp"
+image: "/images/the-only-tv-wall-decor-guide-youll-ever-need.webp"
 pubDate: "2026-07-26T04:45:00Z"
 ---
 

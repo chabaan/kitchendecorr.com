@@ -3,7 +3,7 @@ title: "The $50 Lazy Susan Organization Ideas That Look Like $5,000"
 meta: "Transform your tent with lazy Susan organization ideas that cost under $50 but look like a luxury setup. Practical tips for tidy, cozy camping."
 category: "Kitchen Organization & Storage"
 author: "Ayla Allen"
-image: "https://kitchendecorr.com/wp-content/uploads/2026/07/the-50-lazy-susan-organization-ideas-tha-1.webp"
+image: "/images/the-50-lazy-susan-organization-ideas-that-look-like-5000.webp"
 pubDate: "2026-07-23T05:30:00Z"
 ---
 

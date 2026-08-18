@@ -3,7 +3,7 @@ title: "7 Home Library Ideas That Actually Work in Small Spaces"
 meta: "Discover 7 home library ideas for small spaces that actually work. Practical tips for cozy reading nooks, vertical storage, and multi-use furniture."
 category: "Home & Living Spaces Decor"
 author: "Ayla Allen"
-image: "https://kitchendecorr.com/wp-content/uploads/2026/07/7-home-library-ideas-that-actually-work-1-1.webp"
+image: "/images/7-home-library-ideas-that-actually-work-in-small-spaces.webp"
 pubDate: "2026-07-14T15:30:00Z"
 ---
 

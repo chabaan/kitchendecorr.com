@@ -3,7 +3,7 @@ title: "7 L-Shape Kitchen Setups That Actually Work in Small Spaces"
 meta: "Discover 7 L-shape kitchen setups for small tent campsites. Practical, space-saving layouts that keep your cooking area organized and efficient."
 category: "Home & Living Spaces Decor"
 author: "Razen Alias"
-image: "https://kitchendecorr.com/wp-content/uploads/2026/07/7-l-shape-kitchen-setups-that-actually-w-1.webp"
+image: "/images/7-l-shape-kitchen-setups-that-actually-work-in-small-spaces.webp"
 pubDate: "2026-07-16T17:50:00Z"
 ---
 

@@ -3,7 +3,7 @@ title: "Steal This Modern Kitchen Setup Before Everyone Else Does"
 meta: "Steal this modern kitchen setup for tent camping. A practical, organized system that keeps food safe, gear tidy, and cooking easy at any campsite."
 category: "Kitchen Decor, Backsplash & Lighting"
 author: "Razen Alias"
-image: "https://kitchendecorr.com/wp-content/uploads/2026/07/steal-this-modern-kitchen-setup-before-e-1.webp"
+image: "/images/steal-this-modern-kitchen-setup-before-everyone-else-does.webp"
 pubDate: "2026-07-25T05:30:00Z"
 ---
 

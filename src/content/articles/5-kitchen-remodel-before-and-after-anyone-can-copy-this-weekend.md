@@ -3,7 +3,7 @@ title: "5 Kitchen Remodel Before and After Anyone Can Copy This Weekend"
 meta: "Transform your kitchen this weekend with 5 easy before and after ideas. No contractor needed—just paint, hardware, and smart swaps."
 category: "Kitchen Remodel & Design Ideas"
 author: "Razen Alias"
-image: "https://kitchendecorr.com/wp-content/uploads/2026/07/5-kitchen-remodel-before-and-after-anyon-1.webp"
+image: "/images/5-kitchen-remodel-before-and-after-anyone-can-copy-this-weekend.webp"
 pubDate: "2026-07-19T05:30:00Z"
 ---
 

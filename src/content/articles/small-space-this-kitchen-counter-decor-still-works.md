@@ -3,7 +3,7 @@ title: "Small Space? This Kitchen Counter Decor Still Works"
 meta: "Make your tent camping kitchen feel homey without clutter. Small space kitchen counter decor that works on a camp table — including a clever vertical trick."
 category: "Kitchen Decor, Backsplash & Lighting"
 author: "Razen Alias"
-image: "https://kitchendecorr.com/wp-content/uploads/2026/07/small-space-this-kitchen-counter-decor-s.webp"
+image: "/images/small-space-this-kitchen-counter-decor-still-works.webp"
 pubDate: "2026-07-03T14:09:36Z"
 ---
 

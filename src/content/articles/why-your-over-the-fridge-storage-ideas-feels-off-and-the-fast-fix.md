@@ -3,7 +3,7 @@ title: "Why Your Over the Fridge Storage Ideas Feels Off (And the Fast Fix)"
 meta: "Does your over-the-fridge storage feel cluttered or hard to reach? Here's why it feels off and the fast fix to make it work for tent camping."
 category: "Kitchen Organization & Storage"
 author: "Ayla Allen"
-image: "https://kitchendecorr.com/wp-content/uploads/2026/07/why-your-over-the-fridge-storage-ideas-f-1.webp"
+image: "/images/why-your-over-the-fridge-storage-ideas-feels-off-and-the-fast-fix.webp"
 pubDate: "2026-07-25T17:50:00Z"
 ---
 

@@ -3,7 +3,7 @@ title: "Steal This Deep Drawer Kitchen Organization Before Everyone Else Does"
 meta: "Steal this deep drawer kitchen organization trick for tent camping. One simple hack transforms messy gear into a tidy, accessible cooking station."
 category: "Kitchen Organization & Storage"
 author: "Razen Alias"
-image: "https://kitchendecorr.com/wp-content/uploads/2026/07/steal-this-deep-drawer-kitchen-organizat-1.webp"
+image: "/images/steal-this-deep-drawer-kitchen-organization-before-everyone-else-does.webp"
 pubDate: "2026-07-27T19:45:00Z"
 ---
 

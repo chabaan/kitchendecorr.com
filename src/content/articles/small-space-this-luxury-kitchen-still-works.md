@@ -3,7 +3,7 @@ title: "Small Space? This Luxury Kitchen Still Works"
 meta: "Create a luxury tent kitchen even in a small space. Get smart storage, prep, and cooking tips for a functional, beautiful campsite setup."
 category: "Kitchen Decor, Backsplash & Lighting"
 author: "Razen Alias"
-image: "https://kitchendecorr.com/wp-content/uploads/2026/07/small-space-this-luxury-kitchen-still-wo-1.webp"
+image: "/images/small-space-this-luxury-kitchen-still-works.webp"
 pubDate: "2026-07-14T03:10:00Z"
 ---
 

@@ -3,7 +3,7 @@ title: "The One Small Kitchen Change That Fixed Everything"
 meta: "Discover the one small kitchen change that fixed everything in my tent camping setup. A simple method for easier meals and less mess."
 category: "Kitchen Decor, Backsplash & Lighting"
 author: "Razen Alias"
-image: "https://kitchendecorr.com/wp-content/uploads/2026/07/the-one-small-kitchen-change-that-fixed-1-1.webp"
+image: "/images/the-one-small-kitchen-change-that-fixed-everything.webp"
 pubDate: "2026-07-23T16:05:00Z"
 ---
 

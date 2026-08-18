@@ -3,7 +3,7 @@ title: "Steal This Kitchen Remodel Small Before Everyone Else Does"
 meta: "Discover a tent camping kitchen remodel small enough to pack in a tote. Steal this clever setup for easy meals and tidy campsite cooking."
 category: "Kitchen Remodel & Design Ideas"
 author: "Ayla Allen"
-image: "https://kitchendecorr.com/wp-content/uploads/2026/07/steal-this-kitchen-remodel-small-before-1-1.webp"
+image: "/images/steal-this-kitchen-remodel-small-before-everyone-else-does.webp"
 pubDate: "2026-07-20T16:35:00Z"
 ---
 

@@ -3,7 +3,7 @@ title: "Spice Cabinet Organization That Actually Stays Put at Camp"
 meta: "Stop digging for the paprika. This spice cabinet organization method keeps your camp kitchen tidy, accessible, and crush-free."
 category: "Kitchen Organization & Storage"
 author: "Razen Alias"
-image: "https://kitchendecorr.com/wp-content/uploads/2026/07/spice-cabinet-organization-that-actually-1.webp"
+image: "/images/spice-cabinet-organization-that-actually-stays-put-at-camp.webp"
 pubDate: "2026-07-22T04:00:00Z"
 ---
 

@@ -3,7 +3,7 @@ title: "Steal This Kitchen Lighting Design Before Everyone Else Does"
 meta: "Steal this kitchen lighting design for tent camping before everyone else does. A warm, practical setup that transforms your campsite kitchen."
 category: "Kitchen Decor, Backsplash & Lighting"
 author: "Ayla Allen"
-image: "https://kitchendecorr.com/wp-content/uploads/2026/07/steal-this-kitchen-lighting-design-befor-1.webp"
+image: "/images/steal-this-kitchen-lighting-design-before-everyone-else-does.webp"
 pubDate: "2026-07-18T23:40:00Z"
 ---
 

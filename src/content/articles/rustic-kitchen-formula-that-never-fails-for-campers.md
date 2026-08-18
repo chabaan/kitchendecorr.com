@@ -3,7 +3,7 @@ title: "Rustic Kitchen Formula That Never Fails for Campers"
 meta: "Discover the rustic kitchen formula that never fails for tent camping. Get a repeatable setup for meals, storage, and comfort at any campsite."
 category: "Kitchen Decor, Backsplash & Lighting"
 author: "Razen Alias"
-image: "https://kitchendecorr.com/wp-content/uploads/2026/07/rustic-kitchen-formula-that-never-fails-1-1.webp"
+image: "/images/rustic-kitchen-formula-that-never-fails-for-campers.webp"
 pubDate: "2026-07-17T22:20:00Z"
 ---
 

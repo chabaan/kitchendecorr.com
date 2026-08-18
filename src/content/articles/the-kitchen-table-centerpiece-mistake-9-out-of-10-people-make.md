@@ -3,7 +3,7 @@ title: "The Kitchen Table Centerpiece Mistake 9 Out of 10 People Make"
 meta: "Stop cluttering your camp kitchen table. The one centerpiece mistake 9 out of 10 people make, and how to fix it for better workflow."
 category: "Kitchen Decor, Backsplash & Lighting"
 author: "Razen Alias"
-image: "https://kitchendecorr.com/wp-content/uploads/2026/07/the-kitchen-table-centerpiece-mistake-9-1-1.webp"
+image: "/images/the-kitchen-table-centerpiece-mistake-9-out-of-10-people-make.webp"
 pubDate: "2026-07-15T22:20:00Z"
 ---
 

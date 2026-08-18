@@ -3,7 +3,7 @@ title: "Why Your Kids Room Decor Ideas Feels Off (And the Fast Fix)"
 meta: "Kids room decor ideas for tent camping feeling off? Learn the one fast fix that transforms your tent into a cozy, organized space your kids will love."
 category: "Home & Living Spaces Decor"
 author: "Razen Alias"
-image: "https://kitchendecorr.com/wp-content/uploads/2026/07/why-your-kids-room-decor-ideas-feels-off-1.webp"
+image: "/images/why-your-kids-room-decor-ideas-feels-off-and-the-fast-fix.webp"
 pubDate: "2026-07-23T21:10:00Z"
 ---
 

@@ -3,7 +3,7 @@ title: "Modern Kitchen Design India Guide: Smart Layout & Storage"
 meta: "Discover the only modern kitchen design India guide you need, with practical layout tips, modular storage hacks, and climate-smart materials."
 category: "Kitchen Organization & Storage"
 author: "Ayla Allen"
-image: "https://kitchendecorr.com/wp-content/uploads/2026/07/modern-kitchen-design-india-guide-smart-1-1.webp"
+image: "/images/modern-kitchen-design-india-guide-smart-layout-storage.webp"
 pubDate: "2026-07-04T14:08:25Z"
 ---
 

@@ -3,7 +3,7 @@ title: "The Secret to Apartment Decor Designers Won't Tell You"
 meta: "Discover the secret to apartment decor designers won't tell you: tent camping organization hacks that maximize small-space comfort and style."
 category: "Home & Living Spaces Decor"
 author: "Razen Alias"
-image: "https://kitchendecorr.com/wp-content/uploads/2026/07/the-secret-to-apartment-decor-designers-1-1.webp"
+image: "/images/the-secret-to-apartment-decor-designers-wont-tell-you.webp"
 pubDate: "2026-07-21T17:50:00Z"
 ---
 

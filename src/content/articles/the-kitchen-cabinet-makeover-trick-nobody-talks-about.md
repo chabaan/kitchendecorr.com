@@ -3,7 +3,7 @@ title: "The Kitchen Cabinet Makeover Trick Nobody Talks About"
 meta: "Discover the kitchen cabinet makeover trick nobody talks about for tent camping. Repurpose a hanging shoe organizer to transform camp kitchen storage."
 category: "Kitchen Decor, Backsplash & Lighting"
 author: "Razen Alias"
-image: "https://kitchendecorr.com/wp-content/uploads/2026/07/the-kitchen-cabinet-makeover-trick-nobod-1.webp"
+image: "/images/the-kitchen-cabinet-makeover-trick-nobody-talks-about.webp"
 pubDate: "2026-07-13T22:20:00Z"
 ---
 

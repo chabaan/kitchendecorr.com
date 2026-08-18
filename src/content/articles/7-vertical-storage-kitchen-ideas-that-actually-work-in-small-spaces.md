@@ -3,7 +3,7 @@ title: "7 vertical storage kitchen ideas That Actually Work in Small Spaces"
 meta: "7 vertical storage kitchen ideas for tent camping that save space and keep gear organized. Practical tips for small camp kitchens from a seasoned tent camper."
 category: "Kitchen Organization & Storage"
 author: "Ayla Allen"
-image: "https://kitchendecorr.com/wp-content/uploads/2026/07/7-vertical-storage-kitchen-ideas-that-ac.webp"
+image: "/images/7-vertical-storage-kitchen-ideas-that-actually-work-in-small-spaces.webp"
 pubDate: "2026-07-07T14:09:43Z"
 ---
 

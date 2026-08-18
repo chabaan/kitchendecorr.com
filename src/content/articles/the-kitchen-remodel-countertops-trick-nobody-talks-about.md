@@ -3,7 +3,7 @@ title: "The Kitchen Remodel Countertops Trick Nobody Talks About"
 meta: "Discover the one kitchen remodel countertops trick nobody talks about: using compact camping gear to test layout before you commit. Practical, low-cost method."
 category: "Kitchen Remodel & Design Ideas"
 author: "Razen Alias"
-image: "https://kitchendecorr.com/wp-content/uploads/2026/07/the-kitchen-remodel-countertops-trick-no-1.webp"
+image: "/images/the-kitchen-remodel-countertops-trick-nobody-talks-about.webp"
 pubDate: "2026-07-16T17:15:00Z"
 ---
 

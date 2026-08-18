@@ -3,7 +3,7 @@ title: "Hallway Decor Ideas on a Real Budget: Exact Steps"
 meta: "Hallway decor ideas on a real budget with exact steps for tent campers. Learn how to create a cozy, organized entry that keeps dirt out and comfort in."
 category: "Home & Living Spaces Decor"
 author: "Razen Alias"
-image: "https://kitchendecorr.com/wp-content/uploads/2026/07/hallway-decor-ideas-on-a-real-budget-exa-1.webp"
+image: "/images/hallway-decor-ideas-on-a-real-budget-exact-steps.webp"
 pubDate: "2026-07-22T15:30:00Z"
 ---
 

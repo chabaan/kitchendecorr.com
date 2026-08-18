@@ -3,7 +3,7 @@ title: "How a Living Room Design Made My Whole House Feel New"
 meta: "A living room design that made my whole house feel new using tent camping techniques for cozy, organized spaces. Practical tips inside."
 category: "Home & Living Spaces Decor"
 author: "Razen Alias"
-image: "https://kitchendecorr.com/wp-content/uploads/2026/07/how-a-living-room-design-made-my-whole-h-1.webp"
+image: "/images/how-a-living-room-design-made-my-whole-house-feel-new.webp"
 pubDate: "2026-07-25T22:20:00Z"
 ---
 

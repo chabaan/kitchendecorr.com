@@ -3,7 +3,7 @@ title: "The Only First Apartment Decor on a Budget Guide"
 meta: "Decorate your first apartment on a budget with these unique, practical tips. Learn the one trick that saves money and creates a cohesive look you won't find els"
 category: "Home & Living Spaces Decor"
 author: "Razen Alias"
-image: "https://kitchendecorr.com/wp-content/uploads/2026/07/the-only-first-apartment-decor-on-a-budg-1.webp"
+image: "/images/the-only-first-apartment-decor-on-a-budget-guide.webp"
 pubDate: "2026-07-24T16:35:00Z"
 ---
 

@@ -3,7 +3,7 @@ title: "The Only Kitchen Organizers Cabinet Guide You'll Ever Need"
 meta: "Master tent camping kitchen organization with this guide on cabinet organizers, storage hacks, and setup tips for a tidy, efficient campsite kitchen."
 category: "Kitchen Decor, Backsplash & Lighting"
 author: "Razen Alias"
-image: "https://kitchendecorr.com/wp-content/uploads/2026/07/the-only-kitchen-organizers-cabinet-guid-1.webp"
+image: "/images/the-only-kitchen-organizers-cabinet-guide-youll-ever-need.webp"
 pubDate: "2026-07-29T15:00:00Z"
 ---
 

@@ -3,7 +3,7 @@ title: "The One Kitchen Pantry Change That Fixed Tent Camping"
 meta: "The one kitchen organization pantry change that fixed everything for tent camping: a vertical hanging pantry system that stops spills, saves space, and keeps fo"
 category: "Kitchen Decor, Backsplash & Lighting"
 author: "Razen Alias"
-image: "https://kitchendecorr.com/wp-content/uploads/2026/07/the-one-kitchen-pantry-change-that-fixed-1.webp"
+image: "/images/the-one-kitchen-pantry-change-that-fixed-tent-camping.webp"
 pubDate: "2026-07-21T04:00:00Z"
 ---
 

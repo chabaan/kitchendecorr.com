@@ -3,7 +3,7 @@ title: "Steal This Apartment Inspiration for Your Tent Setup"
 meta: "Steal this apartment inspiration to transform your tent into a cozy, organized home. Get exact gear sizes, setup sequences, and hacks for comfort and style."
 category: "Uncategorized"
 author: "Razen Alias"
-image: "https://kitchendecorr.com/wp-content/uploads/2026/07/steal-this-apartment-inspiration-for-you.webp"
+image: "/images/steal-this-apartment-inspiration-for-your-tent-setup.webp"
 pubDate: "2026-07-02T14:09:47Z"
 ---
 

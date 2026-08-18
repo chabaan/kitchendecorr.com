@@ -3,7 +3,7 @@ title: "The Kids Kitchen Organization Mistake 9 Out of 10 People Make"
 meta: "Stop the chaos at mealtime. The kids kitchen organization mistake 9 out of 10 people make—and a simple fix that transforms your camp setup."
 category: "Kitchen Organization & Storage"
 author: "Ayla Allen"
-image: "https://kitchendecorr.com/wp-content/uploads/2026/07/the-kids-kitchen-organization-mistake-9-1-1.webp"
+image: "/images/the-kids-kitchen-organization-mistake-9-out-of-10-people-make.webp"
 pubDate: "2026-07-25T03:10:00Z"
 ---
 

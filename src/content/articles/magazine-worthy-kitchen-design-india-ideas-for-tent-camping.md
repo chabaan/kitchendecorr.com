@@ -3,7 +3,7 @@ title: "Magazine-Worthy Kitchen Design India Ideas for Tent Camping"
 meta: "Discover kitchen design India ideas that transform your tent campsite into a magazine spread. Get practical hacks for organization, aesthetics, and comfort."
 category: "Kitchen Remodel & Design Ideas"
 author: "Ayla Allen"
-image: "https://kitchendecorr.com/wp-content/uploads/2026/07/magazine-worthy-kitchen-design-india-ide-1.webp"
+image: "/images/magazine-worthy-kitchen-design-india-ideas-for-tent-camping.webp"
 pubDate: "2026-07-19T22:20:00Z"
 ---
 

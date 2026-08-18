@@ -3,7 +3,7 @@ title: "Kitchen Shelving Decor on a Real Budget: Exact Steps"
 meta: "Decorate tent camping kitchen shelving on a real budget with exact steps for organization, aesthetic, and durability in wind and rain."
 category: "Kitchen Decor, Backsplash & Lighting"
 author: "Razen Alias"
-image: "https://kitchendecorr.com/wp-content/uploads/2026/07/kitchen-shelving-decor-on-a-real-budget-1-1.webp"
+image: "/images/kitchen-shelving-decor-on-a-real-budget-exact-steps.webp"
 pubDate: "2026-07-26T03:10:00Z"
 ---
 

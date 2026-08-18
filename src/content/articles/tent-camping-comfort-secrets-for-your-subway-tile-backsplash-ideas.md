@@ -3,7 +3,7 @@ title: "Tent Camping Comfort Secrets for Your Subway Tile Backsplash Ideas"
 meta: "Discover how tent camping comfort techniques inspired my subway tile backsplash ideas. Practical tips for cozy, organized spaces indoors and out."
 category: "Kitchen Decor, Backsplash & Lighting"
 author: "Razen Alias"
-image: "https://kitchendecorr.com/wp-content/uploads/2026/07/tent-camping-comfort-secrets-for-your-su-1.webp"
+image: "/images/tent-camping-comfort-secrets-for-your-subway-tile-backsplash-ideas.webp"
 pubDate: "2026-07-26T15:00:00Z"
 ---
 

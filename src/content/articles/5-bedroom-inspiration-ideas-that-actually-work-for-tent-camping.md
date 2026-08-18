@@ -3,7 +3,7 @@ title: "5 Bedroom Inspiration Ideas That Actually Work for Tent Camping"
 meta: "I tried 12 bedroom inspiration ideas for tent camping. Here are the 5 that actually worked for comfort, setup, and coziness."
 category: "Kitchen Remodel & Design Ideas"
 author: "Razen Alias"
-image: "https://kitchendecorr.com/wp-content/uploads/2026/07/5-bedroom-inspiration-ideas-that-actuall-1.webp"
+image: "/images/5-bedroom-inspiration-ideas-that-actually-work-for-tent-camping.webp"
 pubDate: "2026-07-20T02:25:00Z"
 ---
 

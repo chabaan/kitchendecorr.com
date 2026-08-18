@@ -3,7 +3,7 @@ title: "Kitchen Drawer Organizers: One Idea, Total Transformation"
 meta: "Transform your camp kitchen with kitchen drawer organizers. One simple idea that brings order, saves space, and makes meal prep a joy."
 category: "Kitchen Decor, Backsplash & Lighting"
 author: "Ayla Allen"
-image: "https://kitchendecorr.com/wp-content/uploads/2026/07/kitchen-drawer-organizers-one-idea-total-1.webp"
+image: "/images/kitchen-drawer-organizers-one-idea-total-transformation.webp"
 pubDate: "2026-07-27T05:30:00Z"
 ---
 

@@ -3,7 +3,7 @@ title: "I Redid My Cabinet Door Organizers in a Weekend – Here's How"
 meta: "I redid my cabinet door organizers for tent camping in a weekend. Step-by-step guide to durable, weatherproof storage that stays tidy and accessible."
 category: "Kitchen Organization & Storage"
 author: "Ayla Allen"
-image: "https://kitchendecorr.com/wp-content/uploads/2026/07/i-redid-my-cabinet-door-organizers-in-a-1-1.webp"
+image: "/images/i-redid-my-cabinet-door-organizers-in-a-weekend-heres-how.webp"
 pubDate: "2026-07-24T06:15:00Z"
 ---
 

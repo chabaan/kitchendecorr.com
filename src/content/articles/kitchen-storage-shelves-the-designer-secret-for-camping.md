@@ -3,7 +3,7 @@ title: "Kitchen Storage Shelves: The Designer Secret for Camping"
 meta: "Discover the secret to kitchen storage shelves designers won't tell you—a modular, tension-fit system that transforms your tent camping setup with stability and"
 category: "Kitchen Organization & Storage"
 author: "Razen Alias"
-image: "https://kitchendecorr.com/wp-content/uploads/2026/07/kitchen-storage-shelves-the-designer-sec-1.webp"
+image: "/images/kitchen-storage-shelves-the-designer-secret-for-camping.webp"
 pubDate: "2026-07-17T15:30:00Z"
 ---
 

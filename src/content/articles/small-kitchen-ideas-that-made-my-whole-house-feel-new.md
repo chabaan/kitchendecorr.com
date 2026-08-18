@@ -3,7 +3,7 @@ title: "Small Kitchen Ideas That Made My Whole House Feel New"
 meta: "Transform your tent camping kitchen with small kitchen ideas that made my whole house feel new. Practical tips for organization and comfort."
 category: "Kitchen Remodel & Design Ideas"
 author: "Razen Alias"
-image: "https://kitchendecorr.com/wp-content/uploads/2026/07/small-kitchen-ideas-that-made-my-whole-h-1.webp"
+image: "/images/small-kitchen-ideas-that-made-my-whole-house-feel-new.webp"
 pubDate: "2026-07-18T16:05:00Z"
 ---
 

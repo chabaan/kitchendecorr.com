@@ -3,7 +3,7 @@ title: "House Interior on a Real Budget: Exact Steps"
 meta: "Transform your tent into a cozy house interior on a real budget with exact steps for storage, lighting, and comfort without spending much."
 category: "Home & Living Spaces Decor"
 author: "Ayla Allen"
-image: "https://kitchendecorr.com/wp-content/uploads/2026/07/house-interior-on-a-real-budget-exact-st-1.webp"
+image: "/images/house-interior-on-a-real-budget-exact-steps.webp"
 pubDate: "2026-07-21T21:45:00Z"
 ---
 

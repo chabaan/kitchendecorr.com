@@ -3,7 +3,7 @@ title: "Kitchen Plant Decor Ideas for Tidy Camping"
 meta: "Discover the kitchen plant decor ideas trick nobody talks about for tent camping. Use live herbs to organize, purify air, and add cozy green charm."
 category: "Kitchen Decor, Backsplash & Lighting"
 author: "Ayla Allen"
-image: "https://kitchendecorr.com/wp-content/uploads/2026/07/kitchen-plant-decor-ideas-for-tidy-campi-1.webp"
+image: "/images/kitchen-plant-decor-ideas-for-tidy-camping.webp"
 pubDate: "2026-07-24T15:00:00Z"
 ---
 

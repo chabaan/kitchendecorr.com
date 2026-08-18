@@ -3,7 +3,7 @@ title: "The Boho Bedroom Decor Formula That Never Fails for Tent Camping"
 meta: "Learn the boho bedroom decor formula that never fails for tent camping. Get specific steps for cozy, aesthetic tent decor that works in any weather."
 category: "Home & Living Spaces Decor"
 author: "Razen Alias"
-image: "https://kitchendecorr.com/wp-content/uploads/2026/07/the-boho-bedroom-decor-formula-that-neve.webp"
+image: "/images/the-boho-bedroom-decor-formula-that-never-fails-for-tent-camping.webp"
 pubDate: "2026-07-06T14:09:32Z"
 ---
 

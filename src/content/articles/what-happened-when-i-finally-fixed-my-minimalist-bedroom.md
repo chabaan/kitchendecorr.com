@@ -3,7 +3,7 @@ title: "What Happened When I Finally Fixed My Minimalist Bedroom"
 meta: "Discover what changed when I fixed my minimalist bedroom with practical tent camping hacks for sleep comfort, gear storage, and weather-ready setups."
 category: "Home & Living Spaces Decor"
 author: "Razen Alias"
-image: "https://kitchendecorr.com/wp-content/uploads/2026/07/what-happened-when-i-finally-fixed-my-mi-1.webp"
+image: "/images/what-happened-when-i-finally-fixed-my-minimalist-bedroom.webp"
 pubDate: "2026-07-27T15:30:00Z"
 ---
 

@@ -3,7 +3,7 @@ title: "Marble Countertop Styling Trick for Camping Tables"
 meta: "Discover the marble countertop styling trick nobody talks about for your camping table. A simple, durable hack to elevate your campsite kitchen setup."
 category: "Uncategorized"
 author: "Razen Alias"
-image: "https://kitchendecorr.com/wp-content/uploads/2026/07/marble-countertop-styling-trick-for-camp-1.webp"
+image: "/images/marble-countertop-styling-trick-for-camping-tables.webp"
 pubDate: "2026-07-28T18:25:00Z"
 ---
 

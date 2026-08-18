@@ -3,7 +3,7 @@ title: "After 30 Homes, This Is My Favorite Kitchen Counter Decor"
 meta: "After 30 homes, this is my favorite kitchen counter decor for tent camping. Get specific, practical tips for a stylish and functional countertop."
 category: "Home & Living Spaces Decor"
 author: "Ayla Allen"
-image: "https://kitchendecorr.com/wp-content/uploads/2026/07/after-30-homes-this-is-my-favorite-kitch-1.webp"
+image: "/images/after-30-homes-this-is-my-favorite-kitchen-counter-decor.webp"
 pubDate: "2026-07-18T21:45:00Z"
 ---
 

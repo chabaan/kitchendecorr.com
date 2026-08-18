@@ -3,7 +3,7 @@ title: "Herringbone Backsplash Ideas for Cozy Tent Kitchens"
 meta: "Discover herringbone backsplash ideas for your tent camping kitchen setup. Learn how to create a cozy, organized cooking space with these creative tips."
 category: "Kitchen Decor, Backsplash & Lighting"
 author: "Ayla Allen"
-image: "https://kitchendecorr.com/wp-content/uploads/2026/07/herringbone-backsplash-ideas-for-cozy-te-1.webp"
+image: "/images/herringbone-backsplash-ideas-for-cozy-tent-kitchens.webp"
 pubDate: "2026-07-17T04:00:00Z"
 ---
 

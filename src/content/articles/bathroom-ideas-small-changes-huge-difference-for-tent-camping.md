@@ -3,7 +3,7 @@ title: "Bathroom Ideas: Small Changes, Huge Difference for Tent Camping"
 meta: "Transform your tent camping bathroom with small changes that make a huge difference. Practical tips for privacy, hygiene, and comfort at any campsite."
 category: "Kitchen Remodel & Design Ideas"
 author: "Razen Alias"
-image: "https://kitchendecorr.com/wp-content/uploads/2026/07/bathroom-ideas-small-changes-huge-differ-1.webp"
+image: "/images/bathroom-ideas-small-changes-huge-difference-for-tent-camping.webp"
 pubDate: "2026-07-22T23:00:00Z"
 ---
 

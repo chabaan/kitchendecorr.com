@@ -3,7 +3,7 @@ title: "Apartment Balcony Decor Trick Nobody Talks About"
 meta: "Learn the apartment balcony decor trick nobody talks about: using tent camping gear for a cozy, organized outdoor space that withstands weather."
 category: "Home & Living Spaces Decor"
 author: "Razen Alias"
-image: "https://kitchendecorr.com/wp-content/uploads/2026/07/apartment-balcony-decor-trick-nobody-tal-1.webp"
+image: "/images/apartment-balcony-decor-trick-nobody-talks-about.webp"
 pubDate: "2026-07-20T05:30:00Z"
 ---
 

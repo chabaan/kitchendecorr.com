@@ -3,7 +3,7 @@ title: "I Redid My Guest Bedroom Ideas in a Weekend — Here's How"
 meta: "I redid my guest bedroom ideas in a weekend with these simple, high-impact steps. No major renovation needed — just smart organization and cozy touches."
 category: "Kitchen Remodel & Design Ideas"
 author: "Razen Alias"
-image: "https://kitchendecorr.com/wp-content/uploads/2026/07/i-redid-my-guest-bedroom-ideas-in-a-week-1.webp"
+image: "/images/i-redid-my-guest-bedroom-ideas-in-a-weekend-heres-how.webp"
 pubDate: "2026-07-22T22:20:00Z"
 ---
 

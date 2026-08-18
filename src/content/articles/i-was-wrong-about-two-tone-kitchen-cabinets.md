@@ -3,7 +3,7 @@ title: "I Was Wrong About Two Tone Kitchen Cabinets"
 meta: "I was wrong about two tone kitchen cabinets in a tent camping kitchen setup. Here's why this design choice actually works for campsite organization and comfort."
 category: "Kitchen Decor, Backsplash & Lighting"
 author: "Ayla Allen"
-image: "https://kitchendecorr.com/wp-content/uploads/2026/07/i-was-wrong-about-two-tone-kitchen-cabin-1.webp"
+image: "/images/i-was-wrong-about-two-tone-kitchen-cabinets.webp"
 pubDate: "2026-07-13T17:50:00Z"
 ---
 

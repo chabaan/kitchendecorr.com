@@ -3,7 +3,7 @@ title: "$50 Living Room Decor That Looks Like $5,000 for Tent Camping"
 meta: "Transform your tent into a cozy living room with $50 decor that looks like $5,000. Get exact tips on fabric, lighting, and arrangement for a luxurious campsite."
 category: "Home & Living Spaces Decor"
 author: "Ayla Allen"
-image: "https://kitchendecorr.com/wp-content/uploads/2026/07/50-living-room-decor-that-looks-like-5-1-1.webp"
+image: "/images/50-living-room-decor-that-looks-like-5000-for-tent-camping.webp"
 pubDate: "2026-07-21T14:30:00Z"
 ---
 

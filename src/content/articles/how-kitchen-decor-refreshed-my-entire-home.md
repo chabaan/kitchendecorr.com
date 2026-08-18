@@ -3,7 +3,7 @@ title: "How Kitchen Decor Refreshed My Entire Home"
 meta: "Discover the kitchen decor that made my whole house feel new with a tent camping twist. Practical tips for a cozy, organized space."
 category: "Home & Living Spaces Decor"
 author: "Razen Alias"
-image: "https://kitchendecorr.com/wp-content/uploads/2026/07/how-kitchen-decor-refreshed-my-entire-ho-1.webp"
+image: "/images/how-kitchen-decor-refreshed-my-entire-home.webp"
 pubDate: "2026-07-12T19:45:00Z"
 ---
 

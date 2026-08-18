@@ -3,7 +3,7 @@ title: "Kitchen Junk Drawer Organization Upgrade Worth Every Penny"
 meta: "Upgrade your camp kitchen junk drawer with a simple organization system. Worth every penny for tent camping comfort and efficiency."
 category: "Kitchen Organization & Storage"
 author: "Ayla Allen"
-image: "https://kitchendecorr.com/wp-content/uploads/2026/07/kitchen-junk-drawer-organization-upgrade-1.webp"
+image: "/images/kitchen-junk-drawer-organization-upgrade-worth-every-penny.webp"
 pubDate: "2026-07-29T00:20:00Z"
 ---
 

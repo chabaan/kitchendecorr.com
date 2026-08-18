@@ -3,7 +3,7 @@ title: "Why Your Tent Interior Design Feels Off (And the Fast Fix)"
 meta: "Is your tent interior design feeling off? Learn the fast fix for a cozy, organized tent space that actually feels like home in the woods."
 category: "Kitchen Remodel & Design Ideas"
 author: "Ayla Allen"
-image: "https://kitchendecorr.com/wp-content/uploads/2026/07/why-your-tent-interior-design-feels-off-1-1.webp"
+image: "/images/why-your-tent-interior-design-feels-off-and-the-fast-fix.webp"
 pubDate: "2026-07-28T04:00:00Z"
 ---
 

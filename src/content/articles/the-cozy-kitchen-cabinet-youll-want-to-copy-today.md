@@ -3,7 +3,7 @@ title: "The Cozy Kitchen Cabinet You'll Want to Copy Today"
 meta: "Build the cozy kitchen cabinet for tent camping with exact gear sizes, a nesting trick, and a rain-proof setup that works for families."
 category: "Kitchen Decor, Backsplash & Lighting"
 author: "Ayla Allen"
-image: "https://kitchendecorr.com/wp-content/uploads/2026/07/the-cozy-kitchen-cabinet-you-ll-want-to-1-1.webp"
+image: "/images/the-cozy-kitchen-cabinet-youll-want-to-copy-today.webp"
 pubDate: "2026-07-20T15:00:00Z"
 ---
 

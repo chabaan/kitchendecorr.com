@@ -3,7 +3,7 @@ title: "Kitchen Lighting Fixtures Over Island: One Idea, Total Transformation"
 meta: "Transform your campsite kitchen with a single lighting fixture over the island. My one idea uses a collapsible pendant light for cozy, functional glow."
 category: "Kitchen Decor, Backsplash & Lighting"
 author: "Razen Alias"
-image: "https://kitchendecorr.com/wp-content/uploads/2026/07/kitchen-lighting-fixtures-over-island-on-1.webp"
+image: "/images/kitchen-lighting-fixtures-over-island-one-idea-total-transformation.webp"
 pubDate: "2026-07-29T06:15:00Z"
 ---
 

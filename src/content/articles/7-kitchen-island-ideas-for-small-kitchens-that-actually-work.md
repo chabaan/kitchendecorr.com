@@ -3,7 +3,7 @@ title: "7 Kitchen Island Ideas for Small Kitchens That Actually Work"
 meta: "Discover 7 kitchen island ideas for small kitchens that add storage and prep space without clutter. Practical tips from a tent camping organization expert."
 category: "Kitchen Remodel & Design Ideas"
 author: "Razen Alias"
-image: "https://kitchendecorr.com/wp-content/uploads/2026/07/7-kitchen-island-ideas-for-small-kitchen-1.webp"
+image: "/images/7-kitchen-island-ideas-for-small-kitchens-that-actually-work.webp"
 pubDate: "2026-07-27T23:40:00Z"
 ---
 

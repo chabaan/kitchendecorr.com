@@ -3,7 +3,7 @@ title: "The Kitchen Interior Everyone's Saving Right Now"
 meta: "Discover the tent kitchen interior layout everyone is saving right now for organized, cozy camp cooking. Practical setup tips inside."
 category: "Kitchen Decor, Backsplash & Lighting"
 author: "Ayla Allen"
-image: "https://kitchendecorr.com/wp-content/uploads/2026/07/the-kitchen-interior-everyone-s-saving-r-1.webp"
+image: "/images/the-kitchen-interior-everyones-saving-right-now.webp"
 pubDate: "2026-07-23T04:00:00Z"
 ---
 

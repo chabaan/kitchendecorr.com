@@ -3,7 +3,7 @@ title: "Kitchen Lighting Design on a Real Budget: Exact Steps"
 meta: "Practical kitchen lighting design ideas on a real budget for tent camping. Get exact steps to light your camp kitchen with cheap gear and no wasted money."
 category: "Kitchen Decor, Backsplash & Lighting"
 author: "Ayla Allen"
-image: "https://kitchendecorr.com/wp-content/uploads/2026/07/kitchen-lighting-design-on-a-real-budget-1.webp"
+image: "/images/kitchen-lighting-design-on-a-real-budget-exact-steps.webp"
 pubDate: "2026-07-16T05:30:00Z"
 ---
 

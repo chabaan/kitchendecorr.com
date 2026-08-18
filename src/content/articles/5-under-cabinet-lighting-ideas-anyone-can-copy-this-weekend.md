@@ -3,7 +3,7 @@ title: "5 Under Cabinet Lighting Ideas Anyone Can Copy This Weekend"
 meta: "Brighten your tent kitchen with 5 under cabinet lighting ideas anyone can copy this weekend. Practical, safe, and cozy tent camping hacks."
 category: "Kitchen Decor, Backsplash & Lighting"
 author: "Razen Alias"
-image: "https://kitchendecorr.com/wp-content/uploads/2026/07/5-under-cabinet-lighting-ideas-anyone-ca-1.webp"
+image: "/images/5-under-cabinet-lighting-ideas-anyone-can-copy-this-weekend.webp"
 pubDate: "2026-07-23T17:50:00Z"
 ---
 

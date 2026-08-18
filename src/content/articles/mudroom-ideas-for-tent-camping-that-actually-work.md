@@ -3,7 +3,7 @@ title: "Mudroom Ideas for Tent Camping That Actually Work"
 meta: "Discover tent camping mudroom ideas that keep dirt outside. Practical organization and storage tips for a cleaner, cozier campsite."
 category: "Kitchen Remodel & Design Ideas"
 author: "Razen Alias"
-image: "https://kitchendecorr.com/wp-content/uploads/2026/07/mudroom-ideas-for-tent-camping-that-actu-1.webp"
+image: "/images/mudroom-ideas-for-tent-camping-that-actually-work.webp"
 pubDate: "2026-07-26T20:20:00Z"
 ---
 

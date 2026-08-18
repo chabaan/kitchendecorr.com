@@ -3,7 +3,7 @@ title: "Kitchen Lighting Interior Design Ideas That Feel Like a Magazine Spread"
 meta: "Kitchen lighting interior design ideas for tent camping that create a magazine-worthy look. Warm, layered light setups that transform your campsite kitchen."
 category: "Kitchen Remodel & Design Ideas"
 author: "Razen Alias"
-image: "https://kitchendecorr.com/wp-content/uploads/2026/07/kitchen-lighting-interior-design-ideas-t-1.webp"
+image: "/images/kitchen-lighting-interior-design-ideas-that-feel-like-a-magazine-spread.webp"
 pubDate: "2026-07-15T16:05:00Z"
 ---
 

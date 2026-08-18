@@ -3,7 +3,7 @@ title: "I Tried 12 Kitchen Organizers — These 5 Actually Worked"
 meta: "I tested 12 kitchen organizer and storage ideas for tent camping. Only 5 made the cut. Real gear sizes, setup tips, and mistakes to avoid."
 category: "Kitchen Decor, Backsplash & Lighting"
 author: "Razen Alias"
-image: "https://kitchendecorr.com/wp-content/uploads/2026/07/i-tried-12-kitchen-organizers-these-5-ac-1.webp"
+image: "/images/i-tried-12-kitchen-organizers-these-5-actually-worked.webp"
 pubDate: "2026-07-28T15:00:00Z"
 ---
 

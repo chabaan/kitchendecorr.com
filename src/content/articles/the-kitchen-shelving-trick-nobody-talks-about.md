@@ -3,7 +3,7 @@ title: "The Kitchen Shelving Trick Nobody Talks About"
 meta: "Learn the kitchen shelving trick nobody talks about for tent camping. A simple, sturdy method to organize gear and keep food off the ground."
 category: "Kitchen Decor, Backsplash & Lighting"
 author: "Razen Alias"
-image: "https://kitchendecorr.com/wp-content/uploads/2026/07/the-kitchen-shelving-trick-nobody-talks-.webp"
+image: "/images/the-kitchen-shelving-trick-nobody-talks-about.webp"
 pubDate: "2026-07-06T14:09:51Z"
 ---
 

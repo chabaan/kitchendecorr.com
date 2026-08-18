@@ -3,7 +3,7 @@ title: "Small Space? This Kitchen Storage Hacks Still Works"
 meta: "Tent camping with limited room? These kitchen storage hacks for small spaces work in a compact camp kitchen. Real tips for organization and packing."
 category: "Kitchen Organization & Storage"
 author: "Razen Alias"
-image: "https://kitchendecorr.com/wp-content/uploads/2026/07/small-space-this-kitchen-storage-hacks-s-1.webp"
+image: "/images/small-space-this-kitchen-storage-hacks-still-works.webp"
 pubDate: "2026-07-24T01:00:00Z"
 ---
 

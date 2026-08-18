@@ -3,7 +3,7 @@ title: "Small Space? This Kitchen Cart Storage Still Works"
 meta: "Small tent space? A kitchen cart storage idea still works. Learn the exact setup for organization without sacrificing room."
 category: "Kitchen Organization & Storage"
 author: "Razen Alias"
-image: "https://kitchendecorr.com/wp-content/uploads/2026/07/small-space-this-kitchen-cart-storage-st-1.webp"
+image: "/images/small-space-this-kitchen-cart-storage-still-works.webp"
 pubDate: "2026-07-19T20:20:00Z"
 ---
 

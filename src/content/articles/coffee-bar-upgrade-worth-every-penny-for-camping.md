@@ -3,7 +3,7 @@ title: "Coffee Bar Upgrade Worth Every Penny for Camping"
 meta: "A coffee bar upgrade worth every penny for tent camping. Get the setup, gear, and a clever trick you won't find elsewhere."
 category: "Uncategorized"
 author: "Ayla Allen"
-image: "https://kitchendecorr.com/wp-content/uploads/2026/07/coffee-bar-upgrade-worth-every-penny-for-1.webp"
+image: "/images/coffee-bar-upgrade-worth-every-penny-for-camping.webp"
 pubDate: "2026-07-25T20:20:00Z"
 ---
 

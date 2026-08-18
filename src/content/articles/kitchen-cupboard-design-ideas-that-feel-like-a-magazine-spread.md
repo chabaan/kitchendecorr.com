@@ -3,7 +3,7 @@ title: "Kitchen Cupboard Design Ideas That Feel Like a Magazine Spread"
 meta: "Transform your tent kitchen with cupboard design ideas that feel like a magazine spread—learn modular storage, aesthetic layering, and wind-proof setups."
 category: "Kitchen Remodel & Design Ideas"
 author: "Razen Alias"
-image: "https://kitchendecorr.com/wp-content/uploads/2026/07/kitchen-cupboard-design-ideas-that-feel-1-1.webp"
+image: "/images/kitchen-cupboard-design-ideas-that-feel-like-a-magazine-spread.webp"
 pubDate: "2026-07-30T01:00:00Z"
 ---
 

@@ -3,7 +3,7 @@ title: "Kitchen Countertop Decor Ideas Designers Keep Quiet"
 meta: "Discover the secret to kitchen countertop decor ideas designers won't tell you: a practical tent camping trick for clutter-free, cozy countertops."
 category: "Kitchen Remodel & Design Ideas"
 author: "Razen Alias"
-image: "https://kitchendecorr.com/wp-content/uploads/2026/07/kitchen-countertop-decor-ideas-designers-1.webp"
+image: "/images/kitchen-countertop-decor-ideas-designers-keep-quiet.webp"
 pubDate: "2026-07-21T19:45:00Z"
 ---
 

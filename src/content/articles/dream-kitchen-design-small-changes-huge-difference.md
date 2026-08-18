@@ -3,7 +3,7 @@ title: "Dream Kitchen Design: Small Changes, Huge Difference"
 meta: "Transform your tent camping kitchen with small changes that make a huge difference. Practical tips for organization, comfort, and efficiency."
 category: "Kitchen Remodel & Design Ideas"
 author: "Razen Alias"
-image: "https://kitchendecorr.com/wp-content/uploads/2026/07/dream-kitchen-design-small-changes-huge-1-1.webp"
+image: "/images/dream-kitchen-design-small-changes-huge-difference.webp"
 pubDate: "2026-07-20T20:20:00Z"
 ---
 

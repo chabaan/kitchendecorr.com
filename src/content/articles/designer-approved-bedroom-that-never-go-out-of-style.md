@@ -3,7 +3,7 @@ title: "Designer-Approved Bedroom That Never Go Out of Style"
 meta: "Create a designer-approved bedroom that never goes out of style with timeless furniture, neutral layers, and one unexpected trick most decor blogs skip."
 category: "Kitchen Remodel & Design Ideas"
 author: "Razen Alias"
-image: "https://kitchendecorr.com/wp-content/uploads/2026/07/designer-approved-bedroom-that-never-go-1-1.webp"
+image: "/images/designer-approved-bedroom-that-never-go-out-of-style.webp"
 pubDate: "2026-07-19T15:00:00Z"
 ---
 

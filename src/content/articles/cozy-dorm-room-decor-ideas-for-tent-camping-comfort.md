@@ -3,7 +3,7 @@ title: "Cozy Dorm Room Decor Ideas for Tent Camping Comfort"
 meta: "Bring dorm room cozy decor to your tent camping with these practical, aesthetic ideas for organization and comfort."
 category: "Home & Living Spaces Decor"
 author: "Razen Alias"
-image: "https://kitchendecorr.com/wp-content/uploads/2026/07/cozy-dorm-room-decor-ideas-for-tent-camp-1.webp"
+image: "/images/cozy-dorm-room-decor-ideas-for-tent-camping-comfort.webp"
 pubDate: "2026-07-18T00:20:00Z"
 ---
 

@@ -3,7 +3,7 @@ title: "Designer-Approved Accent Wall Ideas That Never Go Out of Style"
 meta: "Discover designer-approved accent wall ideas that never go out of style, with practical tips for tent camping decor and cozy setups."
 category: "Kitchen Remodel & Design Ideas"
 author: "Razen Alias"
-image: "https://kitchendecorr.com/wp-content/uploads/2026/07/designer-approved-accent-wall-ideas-that-1.webp"
+image: "/images/designer-approved-accent-wall-ideas-that-never-go-out-of-style.webp"
 pubDate: "2026-07-13T06:15:00Z"
 ---
 
